@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(learn_opengl)
+project(term_video)
 
 set(CMAKE_MODULE_PATH "${CMAKE_MODULE_PATH};${CMAKE_CURRENT_SOURCE_DIR}/dep/sunday_cmake_presets")
 
